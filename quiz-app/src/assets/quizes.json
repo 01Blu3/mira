@@ -1,0 +1,204 @@
+[
+  {
+    "question": "What causes a tsunami?",
+    "choices": [
+      {
+        "text": "A tornado",
+        "correct": false
+      },
+      {
+        "text": "An earthquake",
+        "correct": true
+      },
+      {
+        "text": "A hailstorm",
+        "correct": false
+      },
+      {
+        "text": "A heat wave",
+        "correct": false
+      }
+    ],
+    "explanation": "A tsunami is a series of ocean waves with very long wavelengths (typically several hundred kilometers) caused by large-scale disturbances of the ocean, such as earthquakes, volcanic eruptions, and landslides."
+  },
+  {
+    "question": "Which natural disaster is characterized by a rotating column of air?",
+    "choices": [
+      {
+        "text": "Earthquake",
+        "correct": false
+      },
+      {
+        "text": "Hurricane",
+        "correct": true
+      },
+      {
+        "text": "Flood",
+        "correct": false
+      },
+      {
+        "text": "Drought",
+        "correct": false
+      }
+    ],
+    "explanation": "A hurricane is a tropical cyclone that forms over the ocean and is characterized by a rotating column of air with wind speeds of at least 74 mph (119 km/h)."
+  },
+  {
+    "question": "What is the most common cause of wildfires?",
+    "choices": [
+      {
+        "text": "Earthquakes",
+        "correct": false
+      },
+      {
+        "text": "Tornadoes",
+        "correct": false
+      },
+      {
+        "text": "Human activity",
+        "correct": true
+      },
+      {
+        "text": "Volcanic eruptions",
+        "correct": false
+      }
+    ],
+    "explanation": "While wildfires can be caused by natural factors such as lightning strikes, the majority of wildfires are caused by human activity, such as campfires, cigarettes, and fireworks."
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "choices": [
+      {
+        "text": "Elephant",
+        "correct": false
+      },
+      {
+        "text": "Blue whale",
+        "correct": true
+      },
+      {
+        "text": "Giraffe",
+        "correct": false
+      },
+      {
+        "text": "Hippopotamus",
+        "correct": false
+      }
+    ],
+    "explanation": "The blue whale is the largest mammal on Earth and can grow up to 100 feet (30 meters) long and weigh as much as 200 tons (180 metric tons)."
+  },
+  {
+    "question": "What gas makes up the majority of Earth's atmosphere?",
+    "choices": [
+      {
+        "text": "Carbon dioxide",
+        "correct": false
+      },
+      {
+        "text": "Nitrogen",
+        "correct": true
+      },
+      {
+        "text": "Oxygen",
+        "correct": false
+      },
+      {
+        "text": "Methane",
+        "correct": false
+      }
+    ],
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, while oxygen makes up about 21%. The remaining 1% is made up of other gases such as carbon dioxide and methane."
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "choices": [
+      {
+        "text": "Vatican City",
+        "correct": true
+      },
+      {
+        "text": "Monaco",
+        "correct": false
+      },
+      {
+        "text": "Nauru",
+        "correct": false
+      },
+      {
+        "text": "San Marino",
+        "correct": false
+      }
+    ],
+    "explanation": "Vatican City, a city-state surrounded by Rome, Italy, is the smallest country in the world by land area, with an area of only 44 hectares (110 acres)."
+  },
+  {
+    "question": "What is the primary cause of acid rain?",
+    "choices": [
+      {
+        "text": "Industrial pollution",
+        "correct": true
+      },
+      {
+        "text": "Volcanic activity",
+        "correct": false
+      },
+      {
+        "text": "Forest fires",
+        "correct": false
+      },
+      {
+        "text": "Oil spills",
+        "correct": false
+      }
+    ],
+    "explanation": "Acid rain is caused by emissions of sulfur dioxide and nitrogen oxide, which react with the atmosphere to produce acids that fall to the ground in rain, snow, fog, or dry particles."
+  },
+  {
+    "question": "What is the difference between a tornado and a hurricane?",
+    "choices": [
+      {
+        "text": "A tornado forms over land, while a hurricane forms over water",
+        "correct": false
+      },
+      {
+        "text": "A tornado has a smaller diameter than a hurricane",
+        "correct": true
+      },
+      {
+        "text": "A tornado has lower wind speeds than a hurricane",
+        "correct": true
+      },
+      {
+        "text": "A tornado lasts longer than a hurricane",
+        "correct": false
+      }
+    ],
+    "explanation": "While both tornadoes and hurricanes are cyclonic storms, there are several key differences. Tornadoes are smaller in diameter, have higher wind speeds, and last for a shorter time than hurricanes. Additionally, tornadoes form over land, while hurricanes form over warm ocean waters."
+  },
+  {
+    "question": "What is the most common type of rock found in the Earth's crust?",
+    "choices": [
+      {
+        "text": "Igneous",
+        "correct": false
+      },
+      {
+        "text": "Sedimentary",
+        "correct": true
+      },
+      {
+        "text": "Metamorphic",
+        "correct": false
+      },
+      {
+        "text": "Magma",
+        "correct": false
+      }
+    ],
+    "explanation": "Sedimentary rocks are the most common type of rock found in the Earth's crust, comprising about 75% of the Earth's surface. They are formed from the accumulation of sediment, such as sand, mud, and pebbles, over long periods of time, often in layers."
+  }
+]
+
+
+
+
