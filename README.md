@@ -25,3 +25,14 @@ but I know that it will be a very interesting expereince.
 
 ### Ashley
 - I worked on the Quiz-site portion of the app
+
+### Jetson Nano Code Packages
+This is the source I used to start working on the Jetson-Nano project
+There is much for a beginner to learn
+1. https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
+
+### AdaFruit Thermal Camera libraries
+1. sudo pip3 install adafruit-circuitpython-mlx90640
+
+### React App
+1. Npm -i
