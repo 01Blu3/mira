@@ -35,4 +35,4 @@ There is much for a beginner to learn
 1. sudo pip3 install adafruit-circuitpython-mlx90640
 
 ### React App
-1. Npm -i
+1. npm i
